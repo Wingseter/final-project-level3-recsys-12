@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c6a20266-f362-4c9e-b723-d34bd5e92f99/TEST.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T064849Z&X-Amz-Expires=86400&X-Amz-Signature=b176e9d6e47c597a66f0f62d4e26b2eeef670c2fb86bb4acea912661e67cbdfe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22TEST.png%22&x-id=GetObject" alt="teamlogo"/>
-</p>
 <br>
 <br>
 
@@ -74,7 +71,7 @@
 ### 전자도서관 MainPage
 ---
 <p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ea2b6fb-684b-4f57-9dae-91613ca63ae6/%EA%B7%B8%EB%A6%BC3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T071117Z&X-Amz-Expires=86400&X-Amz-Signature=5a90b4b1083a8030b7a73415bc23b44ba878a472473205dcdb4366e3854bd00c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC3.png%22&x-id=GetObject" width="500"/>
+<img src="https://github.com/Wingseter/final-project-level3-recsys-12/blob/main/image/unreal_main.png" width="500"/>
 </p>
 <br>
 <br>
@@ -82,16 +79,7 @@
 ### 전자도서관 도서 추천
 ---
 <p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72d114d6-1d8d-466b-92c8-29f52c187f52/%EA%B7%B8%EB%A6%BC2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T071051Z&X-Amz-Expires=86400&X-Amz-Signature=064655dd51b8c26c6c855c42523202fcb42fa53e0a1785d36f8de197d70ee79a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC2.png%22&x-id=GetObject" width="500" />
-</p>
-
-<br>
-<br>
-
-### 메타버스 MainPage
----
-<p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af85766f-236c-405f-bfdd-4422183881a7/%EA%B7%B8%EB%A6%BC5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T071133Z&X-Amz-Expires=86400&X-Amz-Signature=250e877555c6c67188f3b4d9894508b91b970e556fa7b4f3d14003ac2f00736a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC5.png%22&x-id=GetObject" width="500"/>
+<img src="https://github.com/Wingseter/final-project-level3-recsys-12/blob/main/image/unreal_recommend.png" width="500" />
 </p>
 
 <br>
@@ -100,5 +88,14 @@
 ### 메타버스 공간
 ---
 <p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1f0ef8c0-9bd4-415f-9f58-8cb7e5be8078/%EA%B7%B8%EB%A6%BC4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T071202Z&X-Amz-Expires=86400&X-Amz-Signature=e42866aa436d3ad09d0851bb687513a0dc942058c1d2659b81d9c9339f733583&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC4.png%22&x-id=GetObject" width="500"/>
+<img src="https://github.com/Wingseter/final-project-level3-recsys-12/blob/main/image/unreal_place.png" width="500"/>
+</p>
+
+<br>
+<br>
+
+### 웹 페이지 추천
+---
+<p align="center">
+<img src="https://github.com/Wingseter/final-project-level3-recsys-12/blob/main/image/web_recommend.png" width="500"/>
 </p>
